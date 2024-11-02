@@ -1,0 +1,14 @@
+E:\PRN-Assignment\Ass02Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.deps.json
+E:\PRN-Assignment\Ass02Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.runtimeconfig.json
+E:\PRN-Assignment\Ass02Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.dll
+E:\PRN-Assignment\Ass02Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.pdb
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.AssemblyReference.cache
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfoInputs.cache
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfo.cs
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.CoreCompileInputs.cache
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.dll
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\refint\BussinessObject.dll
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.pdb
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.genruntimeconfig.cache
+E:\PRN-Assignment\Ass02Solution\BussinessObject\obj\Debug\net6.0\ref\BussinessObject.dll

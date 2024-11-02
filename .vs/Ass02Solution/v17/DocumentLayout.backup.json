@@ -1,0 +1,965 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PRN-Assignment\\Ass02Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|e:\\prn-assignment\\ass02solution\\daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|solutionrelative:daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|e:\\prn-assignment\\ass02solution\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|e:\\prn-assignment\\ass02solution\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|e:\\prn-assignment\\ass02solution\\daos\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|solutionrelative:daos\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|e:\\prn-assignment\\ass02solution\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|e:\\prn-assignment\\ass02solution\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|e:\\prn-assignment\\ass02solution\\daos\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|solutionrelative:daos\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|e:\\prn-assignment\\ass02solution\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|e:\\prn-assignment\\ass02solution\\bussinessobject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|e:\\prn-assignment\\ass02solution\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|e:\\prn-assignment\\ass02solution\\bussinessobject\\bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\bussinessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|e:\\prn-assignment\\ass02solution\\bussinessobject\\models\\assprn221context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\models\\assprn221context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\productpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\productpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A144046-BF35-4B74-8352-FCAF75D6005E}|DTOs\\DTOs.csproj|e:\\prn-assignment\\ass02solution\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A144046-BF35-4B74-8352-FCAF75D6005E}|DTOs\\DTOs.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\adminpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\adminpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|e:\\prn-assignment\\ass02solution\\bussinessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|e:\\prn-assignment\\ass02solution\\bussinessobject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE5D60-4253-4E17-9F44-98D5D2EF622C}|BussinessObject\\BussinessObject.csproj|solutionrelative:bussinessobject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|e:\\prn-assignment\\ass02solution\\daos\\orderproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|solutionrelative:daos\\orderproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|e:\\prn-assignment\\ass02solution\\daos\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|solutionrelative:daos\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|e:\\prn-assignment\\ass02solution\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|e:\\prn-assignment\\ass02solution\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|e:\\prn-assignment\\ass02solution\\repositories\\iorderproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E5A83C-D07C-490E-A368-EF0D63BEA133}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iorderproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\ass02solution_pnd.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\ass02solution_pnd.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|e:\\prn-assignment\\ass02solution\\ass02solution_pnd\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87057BCA-040E-4A1B-A668-6646BCBB7650}|Ass02Solution_PND\\Ass02Solution_PND.csproj|solutionrelative:ass02solution_pnd\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|e:\\prn-assignment\\ass02solution\\daos\\daos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72AE8D37-4345-4411-8004-0897FF7D42A7}|DAOs\\DAOs.csproj|solutionrelative:daos\\daos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALsUAAAAAAAAAAAAwMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-02T14:51:49.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Index.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Index.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Index.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:29:25.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Index.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Index.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T14:29:25.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Delete.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Delete.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Delete.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:29:25.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Delete.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Delete.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Delete.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowFgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T14:29:25.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Details.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Details.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:29:24.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Details.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Details.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Details.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T14:29:24.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Edit.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Edit.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Edit.cshtml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAtwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:29:24.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Edit.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Edit.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T14:29:24.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Create.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Create.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Create.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:29:24.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\ProductPage\\Create.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\ProductPage\\Create.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\ProductPage\\Create.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwFIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T14:29:24.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDTO.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:28:29.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Index.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Index.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:03:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Index.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Index.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwGcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:03:50.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Delete.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Delete.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:03:50.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Delete.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Delete.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:03:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Details.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Details.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Details.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:03:50.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Details.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Details.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:03:50.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Edit.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Edit.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Edit.cshtml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwD4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:03:50.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Edit.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Edit.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Edit.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:03:50.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Create.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Create.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:03:50.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\AdminPage\\Create.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\AdminPage\\Create.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\AdminPage\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwFkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:03:50.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:52:35.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:52:18.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:51:56.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:45:46.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:43:22.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IOrderProductRepository.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\IOrderProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderProductRepository.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\IOrderProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:43:20.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:37:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:41:26.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:38:52.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Ass02Solution_PND",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Ass02Solution_PND.csproj",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Ass02Solution_PND.csproj",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Ass02Solution_PND.csproj",
+              "RelativeToolTip": "Ass02Solution_PND\\Ass02Solution_PND.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T08:15:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\Login.cshtml.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:19:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\Login.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAtwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:19:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:17:38.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\Error.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:17:08.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:16:12.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:15:22.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Models\\Product.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\Models\\Product.cs",
+              "RelativeToolTip": "BussinessObject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:07:47.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Models\\User.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\Models\\User.cs",
+              "RelativeToolTip": "BussinessObject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:59:52.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T02:48:32.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Pages\\Privacy.cshtml",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Ass02Solution_PND\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T02:48:30.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Program.cs",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\Program.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\Program.cs",
+              "RelativeToolTip": "Ass02Solution_PND\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:48:18.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\appsettings.json",
+              "RelativeDocumentMoniker": "Ass02Solution_PND\\appsettings.json",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\Ass02Solution_PND\\appsettings.json",
+              "RelativeToolTip": "Ass02Solution_PND\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T02:47:29.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DAOs.csproj",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\DAOs.csproj",
+              "RelativeDocumentMoniker": "DAOs\\DAOs.csproj",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\DAOs.csproj",
+              "RelativeToolTip": "DAOs\\DAOs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T02:42:49.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BussinessObject.csproj",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\BussinessObject.csproj",
+              "RelativeDocumentMoniker": "BussinessObject\\BussinessObject.csproj",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\BussinessObject.csproj",
+              "RelativeToolTip": "BussinessObject\\BussinessObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T02:41:10.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\UserDAO.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\UserDAO.cs",
+              "RelativeToolTip": "DAOs\\UserDAO.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:34:35.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\ProductDAO.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\ProductDAO.cs",
+              "RelativeToolTip": "DAOs\\ProductDAO.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAlwFwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:34:34.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderProductDAO.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\OrderProductDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\OrderProductDAO.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\OrderProductDAO.cs",
+              "RelativeToolTip": "DAOs\\OrderProductDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:34:32.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\OrderDAO.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\OrderDAO.cs",
+              "RelativeToolTip": "DAOs\\OrderDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:34:31.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DAOs\\CategoryDAO.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\DAOs\\CategoryDAO.cs",
+              "RelativeToolTip": "DAOs\\CategoryDAO.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:34:30.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Models\\Category.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\Models\\Category.cs",
+              "RelativeToolTip": "BussinessObject\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:32:12.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ASSPRN221Context.cs",
+              "DocumentMoniker": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\Models\\ASSPRN221Context.cs",
+              "RelativeDocumentMoniker": "BussinessObject\\Models\\ASSPRN221Context.cs",
+              "ToolTip": "E:\\PRN-Assignment\\Ass02Solution\\BussinessObject\\Models\\ASSPRN221Context.cs",
+              "RelativeToolTip": "BussinessObject\\Models\\ASSPRN221Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:31:45.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

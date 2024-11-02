@@ -1,0 +1,11 @@
+E:\PRN-Assignment\Ass02Solution\DTOs\bin\Debug\net6.0\DTOs.deps.json
+E:\PRN-Assignment\Ass02Solution\DTOs\bin\Debug\net6.0\DTOs.dll
+E:\PRN-Assignment\Ass02Solution\DTOs\bin\Debug\net6.0\DTOs.pdb
+E:\PRN-Assignment\Ass02Solution\DTOs\obj\Debug\net6.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN-Assignment\Ass02Solution\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfoInputs.cache
+E:\PRN-Assignment\Ass02Solution\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfo.cs
+E:\PRN-Assignment\Ass02Solution\DTOs\obj\Debug\net6.0\DTOs.csproj.CoreCompileInputs.cache
+E:\PRN-Assignment\Ass02Solution\DTOs\obj\Debug\net6.0\DTOs.dll
+E:\PRN-Assignment\Ass02Solution\DTOs\obj\Debug\net6.0\refint\DTOs.dll
+E:\PRN-Assignment\Ass02Solution\DTOs\obj\Debug\net6.0\DTOs.pdb
+E:\PRN-Assignment\Ass02Solution\DTOs\obj\Debug\net6.0\ref\DTOs.dll

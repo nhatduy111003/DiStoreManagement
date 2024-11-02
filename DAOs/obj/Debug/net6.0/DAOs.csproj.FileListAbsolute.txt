@@ -1,0 +1,17 @@
+E:\PRN-Assignment\Ass02Solution\DAOs\bin\Debug\net6.0\DAOs.deps.json
+E:\PRN-Assignment\Ass02Solution\DAOs\bin\Debug\net6.0\DAOs.dll
+E:\PRN-Assignment\Ass02Solution\DAOs\bin\Debug\net6.0\DAOs.pdb
+E:\PRN-Assignment\Ass02Solution\DAOs\bin\Debug\net6.0\BussinessObject.dll
+E:\PRN-Assignment\Ass02Solution\DAOs\bin\Debug\net6.0\DTOs.dll
+E:\PRN-Assignment\Ass02Solution\DAOs\bin\Debug\net6.0\BussinessObject.pdb
+E:\PRN-Assignment\Ass02Solution\DAOs\bin\Debug\net6.0\DTOs.pdb
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\DAOs.csproj.AssemblyReference.cache
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\DAOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\DAOs.AssemblyInfoInputs.cache
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\DAOs.AssemblyInfo.cs
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\DAOs.csproj.CoreCompileInputs.cache
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\DAOs.csproj.Up2Date
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\DAOs.dll
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\refint\DAOs.dll
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\DAOs.pdb
+E:\PRN-Assignment\Ass02Solution\DAOs\obj\Debug\net6.0\ref\DAOs.dll
